@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "52778204863",
+    "project_id": "brandbakerz",
+    "storage_bucket": "brandbakerz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52778204863:android:96e76e92f59085e1c4500a",
+        "android_client_info": {
+          "package_name": "com.example.brandbakerz_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52778204863-n62h25euikqn8tutk0t6204qrga9r00v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8u3VXUcborX5yrExw8kP1GAAecgJbSRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52778204863-n62h25euikqn8tutk0t6204qrga9r00v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
